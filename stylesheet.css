@@ -1,6 +1,8 @@
 body{
-    color:floralwhite;
+    text-decoration-color:rgb(60, 10, 36);
+    background-color: floralwhite;
 }
+
 ul{
     list-style: none;
 }
