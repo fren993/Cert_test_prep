@@ -7,6 +7,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 .list:link{color:rgb(255, 255, 255); border-style: solid; background-color: rgb(198, 154, 192); border-color: #aa4e82; border: 50px;}
 .list:visited{color: rgb(255, 220, 220); background-color: #964172;}
